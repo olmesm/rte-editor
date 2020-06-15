@@ -1,7 +1,8 @@
 {
   "name": "rte-editor",
   "version": "0.1.0",
-  "private": true,
+  "author": "Oliver Smit <github.com/olmesm>",
+  "license": "MIT",
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^19.0.2",
     "@ckeditor/ckeditor5-react": "^2.1.0",
@@ -34,6 +35,7 @@
     ]
   },
   "devDependencies": {
+    "prettier": "^2.0.5",
     "surge": "^0.21.3"
   }
 }

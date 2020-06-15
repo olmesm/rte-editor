@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "RTE Editor",
+  "name": "Rich Text editor for cleaning up content for input to CMS wysiwyg editors",
   "icons": [
     {
       "src": "favicon.ico",
