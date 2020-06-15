@@ -17,7 +17,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "rm -rf build* && npm run build && surge build"
+    "clean": "rm -rf build*",
+    "deploy": "surge build"
   },
   "eslintConfig": {
     "extends": "react-app"
