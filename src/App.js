@@ -11,7 +11,7 @@ import { cleanFunc } from "./cleanFunc";
 import "prismjs/themes/prism.css";
 import "./styles.css";
 
-const DEBOUNCE_TIMEOUT = 1000;
+const DEBOUNCE_TIMEOUT = 250;
 
 const App = () => {
   const [content, setContent] = useState(
